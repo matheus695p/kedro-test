@@ -2,5 +2,6 @@
 
 # kedro-test
 
-Probando kedro ..
+Probando kedro.
 
+[Documentacion Kedro](https://kedro.readthedocs.io/en/stable/01_introduction/01_introduction.html)
