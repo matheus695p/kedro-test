@@ -1,0 +1,1 @@
+def monitor_process(inference_process):    return inference_process + "\n" + " Yo hago el monitoreo de que todo vaya bien"    

@@ -1,0 +1,1 @@
+def inference_process(prepro_process):    return prepro_process + "\n" + " Yo hago la inferencia del modelo"    
